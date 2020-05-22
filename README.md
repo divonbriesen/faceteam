@@ -1,5 +1,6 @@
 # faceteam
 an application for getting to know people in a school/ professional setting
+
 A standalone web app that does the introductions using PHP/MySQL - which can run on a student's site. 
 
 We would want a data model for the information that includes a user table, and probably a table for attributes and another for values (so John is the user, an attribute is "Professional Background" and value is "Worked as an engineer for .....")  it will be 3 tables, but it may be necessary to add more tables. I'm not sure. 
